@@ -1,0 +1,8 @@
+{
+  "name": "湛江移动公司面试系统",
+  "description": "基于 Gemini API 的智能化面试平台，专为湛江移动公司定制，支持多模态 AI 对话、简历评估及岗位匹配分析。",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
